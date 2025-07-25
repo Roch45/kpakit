@@ -77,5 +77,7 @@ def classe_profile(profile,fy,Effort):
     if Effort=="Flexion":
         return(max(valeur_1,valeur_2))
     else:
+        print("Briquette")
         return(max(valeur_3,valeur_2))
     
+       
