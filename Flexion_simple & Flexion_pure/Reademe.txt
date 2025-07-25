@@ -1,0 +1,13 @@
+cd chemin\vers\ton\projet
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python app.py
+
+Je veux générer le setup de mon programme qui se lance avec le fichier app.py
+Je veux un fichier setup.exe qui sera exécutable sur un ordi window juste en lançant le setup de mon appli
+
